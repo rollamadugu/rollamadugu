@@ -37,8 +37,8 @@ Read the write-up: [**Can you trust a green test written by AI? I measured it.**
 
 - Dev.to: [@rollamadugu](https://dev.to/rollamadugu)
 - ORCID: [0009-0001-9992-8997](https://orcid.org/0009-0001-9992-8997)
+- LinkedIn: [Krishnasai Rollamadugu](https://www.linkedin.com/in/krishnasai-r-56804454)
 - Research focus: trustworthy AI-driven software testing (test oracles · self-healing · LLM-as-judge)
-<!-- LinkedIn: add once confirmed -> - LinkedIn: [Krishnasai Rollamadugu](https://www.linkedin.com/in/...) -->
 
 ---
 
